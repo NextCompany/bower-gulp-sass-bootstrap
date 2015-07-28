@@ -1,0 +1,27 @@
+{
+  "name": "infocompany",
+  "version": "0.0.0",
+  "authors": [
+    "Ruan Aragão <ruanaragao2@gmail.com>"
+  ],
+  "description": "Site da infocompany",
+  "main": "assets/js/main.js",
+  "keywords": [
+    "site",
+    "empresa"
+  ],
+  "license": "copyright",
+  "homepage": "http://wcompany.com.br",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap-sass": "~3.3.5"
+  }
+}

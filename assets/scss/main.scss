@@ -1,0 +1,13 @@
+// ...
+// @import "bootstrap-mincer";
+// @import "bootstrap";
+@import "../components/bootstrap-sass/assets/stylesheets/bootstrap";
+
+$color-base: #001e61; 
+
+.nav {
+	background-color: $color-base; 
+	.nav-links {
+		color: white;
+	}
+}
